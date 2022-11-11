@@ -2,7 +2,6 @@
   .containerForm320 {
     display: flex;
     flex-direction: column;
-
     flex-wrap: wrap;
     align-items: center;
     margin-top: 54px;
